@@ -1,0 +1,2 @@
+This is the third file.
+Third File added to my project
